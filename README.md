@@ -1,1 +1,0 @@
-# cad-qc-config
